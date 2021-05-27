@@ -8,9 +8,11 @@ pokemon fire red through discord
 
  ✅ Make Gba 
  
- 🇽 Reaction Controls
+ ❌ Reaction Controls
  
- 🇽 Gba Screenshots To Different Folder
+ ❌ Gba Screenshots To Different Folder
  
- 🇽 Smoother Use 
+ ❌ Smoother Use 
+ 
+ ❌ Multiple Game Support
     ........And More
