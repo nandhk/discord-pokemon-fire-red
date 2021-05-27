@@ -12,7 +12,7 @@ gba.setCanvasMemory();
 
 gba.logLevel = gba.LOG_ERROR;
 
-gba.loadRomFromFile('./path/to/game.gba', function(err, result) {
+gba.loadRomFromFile('./game.gba', function(err, result) {
   if (err) {
     console.error('loadRom failed:', err);
     process.exit(1);
