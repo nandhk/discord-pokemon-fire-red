@@ -15,4 +15,6 @@ pokemon fire red through discord
  ❌ Smoother Use 
  
  ❌ Multiple Game Support
+ 
     ........And More
+# Run 🚩 - ```node index.js```
