@@ -1,4 +1,4 @@
-### discord-pokemon-fire-red
+# Fire Red Discord
 pokemon fire red through discord
 
 ⚠️ Warn!
