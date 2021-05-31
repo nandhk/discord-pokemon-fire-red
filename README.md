@@ -8,7 +8,7 @@ pokemon fire red through discord
 
  ✅ Make Gba 
  
- ❌ Reaction Controls <CANCELED> ✅ Button Controls
+ ❌ Reaction Controls `<CANCELED>` ✅ Button Controls
  
  ❌ Gba Screenshots To Different Folder
  
