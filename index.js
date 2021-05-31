@@ -54,11 +54,6 @@ let R = new disbut.MessageButton()
 
 gba.logLevel = gba.LOG_ERROR;
 
-client.on('message',message => {
-  if(message.content.startsWith('$gba'))
-   message.channel.send('```Help```',{buttons:[L,R]})
-});
-
 gba.loadRomFromFile('./game.gba', function(err, result) {
   if (err) {
     console.error('loadRom failed:', err);
