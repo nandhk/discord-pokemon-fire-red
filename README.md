@@ -2,7 +2,8 @@
 pokemon fire red through discord
 
 ⚠️ Warn!
- This Code Is Really Unstable Now Even Tough Can Be Used..And If You Are Hosting This Bot Now You Need A Brain Too,Sorry For That
+ This Code Is Really Unstable Now Even Tough Can Be Used..And If You Are Hosting This Bot Now You Need A Brain...,sorry for that
+ why i said so is because you might need to send all buttons by three turns
  
 ### Future Updates 📄
 
