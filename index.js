@@ -158,5 +158,5 @@ client.on('clickButton', async (button) => {
           await button.defer()
   }
 });
-require('./server')
+
 client.login("Your Bot Token")
