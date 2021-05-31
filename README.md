@@ -8,7 +8,7 @@ pokemon fire red through discord
 
  ✅ Make Gba 
  
- ❌ Reaction Controls
+ ❌ Reaction Controls <CANCELED> ✅ Button Controls
  
  ❌ Gba Screenshots To Different Folder
  
@@ -18,3 +18,6 @@ pokemon fire red through discord
  
     ........And More
 # Run 🚩 - ```node index.js```
+
+ This Works Fine On Replit But Not Sure If It Runs Fine On Any Other Code Editor,
+  For That, Screenshots To Different Folder Will Be Done Soon...
