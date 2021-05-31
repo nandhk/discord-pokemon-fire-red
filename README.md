@@ -2,7 +2,7 @@
 pokemon fire red through discord
 
 ⚠️ Warn!
- This Code Is Really Unstable Now Even Tough Can Be Used..
+ This Code Is Really Unstable Now Even Tough Can Be Used..And If You Are Hosting This Bot Now You Need A Brain Too,Sorry For That
  
 ### Future Updates 📄
 
