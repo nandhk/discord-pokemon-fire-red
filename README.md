@@ -2,8 +2,7 @@
 pokemon fire red through discord
 
 ⚠️ Warn!
- This Code Is Really Unstable Now Even Tough Can Be Used..And If You Are Hosting This Bot Now You Need A Brain...,sorry for that
- why i said so is because you might need to send all buttons by three turns
+ Pretty Stable Code Now
  
 ### Future Updates 📄
 
@@ -15,10 +14,12 @@ pokemon fire red through discord
  
  ❌ Smoother Use 
  
+ ✅ Lighter Index.js
+ 
  ❌ Multiple Game Support
  
     ........And More
 # Run 🚩 - ```node index.js```
-
+### For Self Hosting Paste These Codes And Fill `config.json` Values, Anyone Can Play This Game, But Only Id(s) Given In Config Can Summon The Controls
  This Works Fine On Replit But Not Sure If It Runs Fine On Any Other Code Editor,
   For That, Screenshots To Different Folder Will Be Done Soon...
