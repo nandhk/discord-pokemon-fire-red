@@ -1,6 +1,6 @@
 # Pokemon Fire Red Discord
 pokemon fire red through discord
-
+# No Longer Maintained
 🛑 Pretty Stable Code Now, 
  
 ### Future Updates 📄
